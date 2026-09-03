@@ -35,7 +35,9 @@ Custom **Odoo 13** modules extending core functionality — tailored workflows, 
 ---
 
 
-<div align="center">
+<div align="center"
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Migerusairov2)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Migerusairov2&layout=compact&theme=dark)
 
