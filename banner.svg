@@ -23,8 +23,8 @@
   <line x1="70" y1="178" x2="330" y2="178" stroke="#2A2E3D" stroke-width="1.5"/>
 
   <text x="70" y="210" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#8891A3">Python</text>
-  <text x="150" y="210" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#8891A3">JavaScript</text>
-  <text x="205" y="210" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#8891A3">PHP Integrated</text>
+  <text x="150" y="210" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#8891A3">PHP</text>
+  <text x="205" y="210" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#8891A3">JavaScript</text>
   <text x="310" y="210" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#8891A3">PostgreSQL</text>
 
   <text x="70" y="240" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="14" fill="#565C6E">Building tailored ERP workflows on Odoo 13</text>
